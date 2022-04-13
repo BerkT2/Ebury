@@ -52,5 +52,9 @@
         <members>Fixer</members>
         <name>RemoteSiteSetting</name>
     </types>
+   <types>
+        <members>*</members>
+        <name>Profile</name>
+    </types>
     <version>54.0</version>
 </Package>
