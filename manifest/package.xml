@@ -41,8 +41,12 @@
         <name>GlobalValueSet</name>
     </types>
     <types>
-    <members>*</members>
-    <name>CustomApplication</name>
+        <members>Ebury_Trade_App</members>
+        <name>CustomApplication</name>
 </types>
+    <types>
+        <members>*</members>
+        <name>CustomTab</name>
+ </types>
     <version>54.0</version>
 </Package>
