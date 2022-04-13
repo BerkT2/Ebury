@@ -44,7 +44,7 @@ The repository is ready to be deployed using salesforce cli and sfdx. In order t
 ## Additional  
 -Test classes are created for the NewTradeController.apxc class. Because the method containing the callout cannot be tested, a fake mockup class is created with the name API_ResponseMock. With the help of API_ResponseMock test coverage for NewTradeController.apxc is 100%.  
 -The code contains comments on every method and on the component, explainig what was intended.  
--The code has been built in a way that future changes won't effect it. (Such as the currency system mentioned in REQ4.  
+-The code has been built in a way that future changes won't effect it. (Such as the currency system mentioned in REQ4. The code was also written in a way to increase optimization.   
 -Code of the table if it was built with lightning:datatable  
 
 CMP:  
