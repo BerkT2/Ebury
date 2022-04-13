@@ -53,7 +53,7 @@
         <name>RemoteSiteSetting</name>
     </types>
    <types>
-        <members>*</members>
+        <members>Admin</members>
         <name>Profile</name>
     </types>
     <version>54.0</version>
